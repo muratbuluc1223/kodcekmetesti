@@ -7,6 +7,9 @@ public class Classs01 {
         int y=2;
         System.out.println(x+y);
 
+//verion 2
+        int bb=5;
+        System.out.println(x+y+bb);
 
 
     }
