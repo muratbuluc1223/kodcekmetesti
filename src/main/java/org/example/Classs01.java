@@ -11,7 +11,8 @@ public class Classs01 {
         int bb=5;
         System.out.println(x+y+bb);
 
-
+        //versiyo 3
+        System.out.println("versiyon için kodlar");
     }
 }
 
